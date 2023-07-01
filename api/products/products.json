@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "nombre": "pepsi,",
+        "precio": "10",
+        "descripcion": "10",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgiAJ_I8DWRNTj8D77UV4mCe6gx_OocGsbiMEe6rep4WbsrVcvS6L4_gpHdA&s"
+    },
+    {
+        "id": "2",
+        "nombre": "coke",
+        "precio": "10",
+        "descripcion": "10",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3UCn7ejLKrcPl8wxXxQzOBiSk_GPohRDanh6FccLl9poK8e21s_ApQ8ODyI&s"
+
+    },
+    {
+        "id": "3",
+        "nombre": "fanta",
+        "precio": "10",
+        "descripcion": "10",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOrGQ37kDYBssP6ewZEWF8zYAAzB_sozkUdTavgXXXpOucXY8HO8br1iRtg&s"
+    },
+    {
+        "id": "4",
+        "nombre": "sprite",
+        "precio": "10",
+        "descripcion": "10",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8OqSQEYingY9NGo1CoOvZghxsgkTj-GzXvmmKvOdkFTRQPGD5ZXJi1_bcxOU&s"
+    },
+    {
+        "id": "5",
+        "nombre": "7up",
+        "precio": "10",
+        "descripcion": "10",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVGzwTIs-tbXvVOFow4BejsWTfVp2kK23BGzKqE0FfUv4bqAzq3mXB7erlew&s"
+
+    },
+    {
+        "id": "6",
+        "nombre": "mirinda",
+        "precio": "10",
+        "descripcion": "10",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdxeTOS-Pm8UMrTVLPMt2SBTuUA2lZcZZDdnC2fGJ-NLjuRjFx87cqmoC3FL8&s"
+    },
+    {
+        "id": "7",
+        "nombre": "limca",
+        "precio": "10",
+        "descripcion": "10",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLsP3sGk3a2FdPlYXt48n-pFh1nw23YHgX3bc5oO2fHF04GkWiVccvjp6nQ&s"
+
+    },
+    {
+        "id": "8",
+        "nombre": "frost",
+        "precio": "10",
+        "descripcion": "10",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwH32kJjaatXNKhfJfBTl3yN4PBpHHwfEmqul7xwt-pG2-ysGXorEZHDys-A&s"
+    },
+    {
+        "id": "9",
+        "nombre": "tecate",
+        "precio": "10",
+        "descripcion": "3 litros",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa-p2gc55YDVFT9DB82c8Q6CSNLUonKXs08ZgqAmyM9pspK_mgQZbd-qs6Zw&s"
+    }
+]
